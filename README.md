@@ -82,4 +82,4 @@ unzip -l mysubmission.zip
 
 ## Acknowledgment
 
-Starter code from [CMU AutoML competition](https://github.com/zhengying-liu/autodl_starting_kit_stable).
+Starter code from [CMU AutoML competition](https://github.com/cxxz/automl_decathlon_starter_kit).

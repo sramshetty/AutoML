@@ -82,8 +82,4 @@ unzip -l mysubmission.zip
 
 ## Acknowledgment
 
-Some of the codes in ingestion/scoring programs and `model.py` were adapted from [past AutoDL competitions](https://github.com/zhengying-liu/autodl_starting_kit_stable).
-
-## Contact us
-If you have any questions, please contact us via:
-<automl.decathlon@gmail.com>
+Starter code from [CMU AutoML competition](https://github.com/zhengying-liu/autodl_starting_kit_stable).
